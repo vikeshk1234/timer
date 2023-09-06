@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    text-decoration: none;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    font-size: 32px;
+    font-weight: bold;
+    color: #fff;
+    align-items: center;
+    justify-content: space-between;
+   
+
+}
+#toggle{
+    color:orange;
+}
